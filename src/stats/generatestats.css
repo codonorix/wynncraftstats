@@ -1,0 +1,47 @@
+.justify {
+    text-align: justify;
+}
+
+.center {
+    text-align: center;
+}
+
+.character {
+    /*border-right: white solid 1px;*/
+    padding-right: 15px;
+}
+
+.border {
+    border-radius: 30px;
+    margin-top: 20px;
+    background-color: rgba(215,223,204,0.64);
+}
+
+.online {
+    height: 25px;
+    width: 25px;
+    background-color: #1aff00;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.offline {
+    height: 25px;
+    width: 25px;
+    background-color: #ff001e;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#VIP {
+    color: #08fc00;
+}
+
+#CHAMPION {
+    color: #e38800;
+}
+
+
+.backgroundBlack {
+    background-color: black;
+}
